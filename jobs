@@ -1,1 +1,22 @@
-["Software Developer", "Data Scientist", "Product Manager", "Designer"]
+[
+    {
+        "title": "iOS Developer",
+        "description": "Develops applications for the iOS operating system"
+    },
+    {
+        "title": "iOS Engineer",
+        "description": "Design and build advanced applications for the iOS operating system"
+    },
+    {
+        "title": "Mobile Developer",
+        "description": "Develops mobile applications for a variety of platforms"
+    },
+    {
+        "title": "SwiftUI Developer",
+        "description": "Develops user interfaces using the SwiftUI framework"
+    },
+    {
+        "title": "Swift Developer",
+        "description": "Develops applications using the Swift programming language"
+    }
+]
